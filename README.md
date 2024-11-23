@@ -1,1 +1,1 @@
-# LorraineWong-Forecasting-Market-Sales-by-Using-Machine-Learning
+# Forecasting-Market-Sales-by-Using-Machine-Learning
